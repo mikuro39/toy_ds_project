@@ -1,3 +1,2 @@
 # toy_ds_project
-
-DSCI 100 worksheet practice
+project creation date: 2/11/23
